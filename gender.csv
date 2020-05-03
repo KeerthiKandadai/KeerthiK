@@ -1,205 +1,134 @@
 ModuleCode,Female,Male
-CAM0001-N,10,5
-CAM0002-N,9,4
-CAM1000-N,17,12
-CAM1001-N,17,12
-CAM1002-N,17,12
-CAM1008-N,33,21
-CAM1009-N,33,20
-CAM1011-N,26,17
-CAM1012-N,18,12
-CAM1016-N,29,19
-CAM1018-N,15,11
-CAM1020-N,14,10
-CAM1022-N,17,13
-CAM1027-N,11,8
-CAM1030-N,64,43
-CAM1031-N,18,15
-CAM1035-N,11,6
-CAM1036-N,11,6
-CAM2039-N,10,4
-CAM2040-N,10,4
-CAM4016-N,0,2
-CAM4017-N,12,7
-CAM4036-N,6,3
-CAM4037-N,17,6
-CAM4039-N,9,3
-CAM4040-N,8,3
-CAM4042-N,8,3
-CAM4057-N,20,12
-CAM4061-N,9,5
-CAM4062-N,9,5
-CAM4063-N,8,5
-CIS0002-N,43,28
-CIS0003-N,47,31
-CIS0005-N,51,33
-CIS1001-N,37,21
-CIS1005-N,16,9
-CIS1007-N,39,22
-CIS1009-N,8,6
-CIS1010-N,73,40
-CIS1013-N,75,42
-CIS1018-N,180,102
-CIS1019-N,26,15
-CIS1020-N,1,0
-CIS2001-N,47,28
-CIS2009-N,11,8
-CIS2014-N,38,19
-CIS2015-N,14,7
-CIS2016-N,28,14
-CIS2017-N,88,51
-CIS2018-N,38,19
-CIS2019-N,18,13
-CIS2021-N,48,29
-CIS2026-N,38,19
-CIS4008-N,16,10
-CIS4009-N,8,6
-CIS4010-N,11,6
-CIS4012-N,39,22
-CIS4019-N,30,18
-CIS4020-N,35,21
-CIS4021-N,18,8
-CIS4022-N,18,10
-CIS4023-N,20,7
-CIS4027-N,0,2
-CIS4037-N,15,6
-CIS4040-N,9,3
-COM3036-N,52,29
-COM3037-N,81,46
-COM3038-N,45,26
-COM3040-N,48,28
-COM3041-N,61,35
-COM3042-N,17,12
-COM3045-N,9,7
-COM3046-N,17,12
-COM3047-N,27,22
-COM3050-N,27,22
-COM3051-N,167,104
-COM3064-N,12,7
-COM3065-N,13,65
-COM3067-N,12,1
-COM4077-N,0,1
-COM4083-N,2,1
-COM4088-N,2,1
-COM4090-N,2,1
-DES2187-N,29,18
-DES2188-N,32,21
-DES2193-N,32,21
-DES3095-N,22,16
-DES3096-N,20,14
-DES4032-N,13,7
-FAE2014-N,26,19
-FAE2016-N,26,19
-FAE3010-N,15,5
-FAE3013-N,15,5
-GAV0001-N,21,13
-GAV0002-N,29,19
-GAV0003-N,85,50
-GAV0004-N,53,30
-GAV0005-N,53,30
-GAV1001-N,27,18
-GAV1002-N,106,63
-GAV1003-N,212,116
-GAV1004-N,136,76
-GAV1005-N,78,47
-GAV1006-N,93,42
-GAV1007-N,15,10
-GAV1009-N,182,110
-GAV1012-N,14,9
-GAV1013-N,58,32
-GAV1015-N,252,142
-GAV1030-N,41,22
-GAV1033-N,21,10
-GAV2002-N,8,6
-GAV2003-N,26,16
-GAV2004-N,51,26
-GAV2005-N,59,32
-GAV2007-N,69,39
-GAV2008-N,49,31
-GAV2010-N,13,7
-GAV2011-N,93,58
-GAV2015-N,8,6
-GAV2016-N,52,27
-GAV2017-N,65,39
-GAV2021-N,98,61
-GAV2022-N,12,9
-GAV2024-N,38,25
-GAV2025-N,136,80
-GAV2027-N,94,58
-GAV2028-N,70,40
-GAV2029-N,68,41
-GAV2038-N,13,7
-GAV3003-N,43,19
-GAV3008-N,5,4
-GAV3009-N,178,110
-GAV3010-N,43,19
-GAV3012-N,12,6
-GAV3016-N,13,7
-GAV3020-N,220,144
-GAV3021-N,43,19
-GAV4002-N,2,0
-GAV4003-N,39,26
-GAV4017-N,147,85
-GAV4018-N,53,27
-GAV4020-N,38,25
-GAV4024-N,2,0
-GAV4028-N,52,27
-GAV4033-N,18,11
-GAV4034-N,18,11
-GAV4037-N,37,22
-GAV4038-N,36,21
-MED0008-N,49,31
-MED2034-N,1,0
-MED2056-N,1,0
-MED2062-N,1,0
-MED3007-N,26,16
-MED3020-N,14,8
-MED3030-N,41,27
-MED3036-N,16,9
-MED3040-N,46,23
-MED3047-N,26,18
-MED3050-N,46,23
-MED3051-N,46,23
-MED3055-N,32,22
-MFP2001-N,10,4
-MFP2005-N,52,30
-MFP2006-N,53,30
-MFP2007-N,3,1
-MFP2008-N,49,29
-MFP2017-N,13,6
-MFP2019-N,14,6
-MFP2024-N,18,8
-MFP2026-N,31,15
-MFP2027-N,23,12
-MFP2028-N,8,6
-MPR3002-N,21,15
-MUL3051-N,35,20
-MUL3055-N,14,9
-MUL3059-N,9,4
-MUL3060-N,9,4
-MUL3061-N,9,4
-MUL3062-N,9,4
-MUL3063-N,0,4
-MUL3064-N,0,4
-MUL3065-N,0,4
-PER3008-N,20,14
-PER3012-N,4,3
-PER3018-N,24,17
-PER3025-N,4,3
-PER3028-N,20,14
-VIS3102-N,53,30
-VIS3103-N,7,4
-VIS3104-N,65,42
-VIS3105-N,17,9
-VIS3108-N,53,30
-VIS3109-N,53,30
-VIS3110-N,73,43
-VIS3126-N,12,10
-VIS4059-N,6,3
-VIS4060-N,6,3
-VIS4068-N,0,1
-VIS4073-N,6,3
-,,
+2D Animation,58,32
+2D Game Creation,8,6
+3D Character Animation ,26,16
+3D Graphics Programming,51,26
+Acting for Animation,18,11
+Advanced Data Analytics,11,6
+Advanced Database Systems,81,46
+Advanced Digital Image Techniques,43,19
+Advanced Effects Animation,2,0
+Advanced Game Mechanics,39,26
+Advanced Java Programming,47,28
+Advanced Mission Design,38,25
+Advanced Networks,45,26
+Advanced Server-side Technologies,14,9
+Algorithms and Programming,1,0
+Algorithms for Games,59,32
+Anatomy of a Producer,9,5
+Applied Artificial Intelligence,9,3
+Asset Design and Modelling,182,110
+Audio & MIDI Recording Theory,17,12
+Audio & MIDI Sequencing,17,12
+Beta Arcade,220,144
+Body Mechanics,18,11
+C++ Programming ,41,22
+Character and Set Design and Layout,21,10
+Character Design,52,27
+Client-based Production Project,46,23
+Computational Thinking,43,28
+Computer and Mobile Technologies,16,9
+Computing Project ,167,104
+Concept Art Project,5,4
+Contemporary AI Planning,2,1
+Context and Events,17,12
+Creating Media Narratives,11,6
+Creative Content Development,46,23
+Creative Media Production,9,4
+Creativity and Design,53,30
+Creature Animation for Real Time,38,25
+Critical and Contextual Studies,85,50
+Digital Compositing,13,7
+Digital Image Techniques,69,39
+Digital Platforms and Production,17,6
+Digital Sculpting,49,31
+Digital Storytelling,33,21
+Documentary Production,1,0
+Drawing for Concept Artists,53,27
+Drawing for Games and Animation 1,252,142
+Drawing for Games and Animation 3,43,19
+Drawing Principles,53,30
+Effects Animation,13,7
+Emerging Database Technologies,16,10
+Ethical Hacking,38,19
+Film Genre in Practice,11,6
+Front End Development,11,8
+Funding and Finance,9,5
+Game Design and Mechanics,106,63
+Game Development,93,58
+Game Prototyping,6,3
+Game Publishing,12,6
+Games Business and Marketing,8,6
+Games Engine Construction,52,27
+Games Futures,178,110
+Games Studies,136,76
+Games Technical Art,65,39
+Global Communications,6,3
+Hacking the Human,39,22
+ICT Service Management,48,28
+Imaging Techniques for VFX,14,9
+Indie Game Project,13,7
+Individual Production Portfolio,1,0
+Information Security and Cybercrime,39,22
+Information Systems Development,47,31
+Information Technology Systems Management,18,10
+Intelligent Multimodal Interaction,2,1
+Introduction to Programming,51,33
+Introduction to Programming with JavaScript,8,6
+IoT Security,30,18
+Java Programming,73,40
+Law and Regulation for Journalists,26,17
+"Lights, Camera, Action: The Language of Film",1,0
+Machine Learning and Game Analytics,2,1
+Making it in the Media 3,46,23
+Material Creation,36,21
+Mathematics and Problem Solving,75,42
+Measurement Driven Project Management,20,7
+Mission Design,98,61
+Mobile Systems and Cybersecurity,35,21
+Modelling and Sculpting,37,22
+Modelling for Games,93,42
+Motion Capture,12,9
+Network Scripting,37,21
+Networking Infrastructures,38,19
+Networks and Systems Administration,14,7
+Non-Digital Game Development,78,47
+Object-Oriented Programming,15,6
+Organic Modelling,136,80
+"Philosophies, Tools and Technologies",18,8
+Platforms and Peripherals,94,58
+Practice Based Research,70,40
+Problem Solving Principles,29,19
+Professional Portfolio Development,68,41
+Professional Practice,43,19
+Programming for VFX,2,0
+Public Relations and Promotional Culture,9,3
+Public Relations: Campaigns and Creativity,8,3
+Quantitative Visualisation,8,6
+Rapid Development Systems ,28,14
+Relational and NoSQL Databases,88,51
+Reporting and Newsgathering,18,12
+Research and Skills,33,20
+Research Methods,147,85
+Rigging and Scripting,15,10
+Sequencing Images for Comics,18,15
+Server Administration,38,19
+Server-side Development,18,13
+Shorthand for Journalists 1,49,31
+Sport Reporting,11,8
+Statistical Methods,0,2
+Story and Talent Development,8,5
+Studio Development,6,3
+Studio Production,29,19
+Study Skills,10,5
+Systems Design and Databases,180,102
+User Experience for Digital Communications,8,3
+Visual Iconography ,212,116
+Visual Perspectives,64,43
+Visual Scripting,27,18
+Visual Scripting Principles,21,13
+Web and Mobile Development ,26,15
+Web Apps and Services,48,29
 ,,
 ,,
 ,,
