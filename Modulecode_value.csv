@@ -1,0 +1,122 @@
+ModuleCode,Value,Department
+Study Skills,10,CAM
+Creative Media Production,9,CAM
+Audio & MIDI Sequencing,17,CAM
+Audio & MIDI Recording Theory,17,CAM
+Context and Events,17,CAM
+Digital Storytelling,33,CAM
+Research and Skills,33,CAM
+Law and Regulation for Journalists,26,CAM
+Reporting and Newsgathering,18,CAM
+Studio Production,29,CAM
+Creating Media Narratives,11,CAM
+Film Genre in Practice,11,CAM
+Digital Platforms and Production,17,CAM
+Public Relations and Promotional Culture,9,CAM
+Public Relations: Campaigns and Creativity,8,CAM
+User Experience for Digital Communications,8,CAM
+Funding and Finance,9,CAM
+Anatomy of a Producer,9,CAM
+Story and Talent Development,8,CAM
+Computational Thinking,43,CSIS
+Information Systems Development,47,CSIS
+Introduction to Programming,51,CSIS
+Network Scripting,37,CSIS
+Computer and Mobile Technologies,16,CSIS
+Information Security and Cybercrime,39,CSIS
+Introduction to Programming with JavaScript,8,CSIS
+Java Programming,73,CSIS
+Mathematics and Problem Solving,75,CSIS
+Systems Design and Databases,180,CSIS
+Web and Mobile Development,26,CSIS
+Algorithms and Programming,1,CSIS
+Advanced Java Programming,47,CSIS
+Front End Development,11,CSIS
+Networking Infrastructures,38,CSIS
+Networks and Systems Administration,14,CSIS
+Rapid Development Systems,28,CSIS
+Rapid Development Systems,88,CSIS
+Server Administration,38,CSIS
+Server-side Development,18,CSIS
+Web Apps and Services,48,CSIS
+Ethical Hacking,38,CSIS
+Emerging Database Technologies,16,CSIS
+Quantitative Visualisation,8,CSIS
+Advanced Data Analytics,11,CSIS
+Hacking the Human,39,CSIS
+IoT Security,30,CSIS
+Mobile Systems and Cybersecurity,35,CSIS
+"Philosophies, Tools and Technologies",18,CSIS
+Information Technology Systems Management,18,CSIS
+Measurement Driven Project Management,20,CSIS
+Statistical Methods,2,CSIS
+Object-Oriented Programming,15,CSIS
+Applied Artificial Intelligence,9,CSIS
+Advanced Database Systems,81,CSIS
+Advanced Networks,45,CSIS
+ICT Service Management,48,CSIS
+Computing Project,167,CSIS
+Contemporary AI Planning,2,CSIS
+Intelligent Multimodal Interaction,2,CSIS
+Machine Learning and Game Analytics,2,CSIS
+Visual Scripting Principles,21,GAV
+Problem Solving Principles,29,GAV
+Critical and Contextual Studies,85,GAV
+Drawing Principles,53,GAV
+Creativity and Design,53,GAV
+Visual Scripting,27,GAV
+Game Design and Mechanics,106,GAV
+Visual Iconography,212,GAV
+Games Studies,136,GAV
+Non-Digital Game Development,78,GAV
+Modelling for Games,93,GAV
+Rigging and Scripting,15,GAV
+Asset Design and Modelling,182,GAV
+Imaging Techniques for VFX,14,GAV
+2D Animation,58,GAV
+Drawing for Games and Animation 1 ,252,GAV
+C++ Programming,41,GAV
+Character and Set Design and Layou,21,GAV
+2D Game Creation,8,GAV
+3D Character Animation,26,GAV
+3D Graphics Programming,51,GAV
+Algorithms for Games,59,GAV
+Digital Image Techniques,69,GAV
+Digital Sculpting,49,GAV
+Effects Animation,13,GAV
+Game Development,93,GAV
+Games Business and Marketing,8,GAV
+Games Engine Construction,52,GAV
+Games Technical Art,65,GAV
+Mission Design,98,GAV
+Motion Capture,12,GAV
+Creature Animation for Real Time,38,GAV
+Organic Modelling,136,GAV
+Platforms and Peripherals,94,GAV
+Practice Based Research,70,GAV
+Professional Portfolio Development,68,GAV
+Digital Compositing,13,GAV
+Advanced Digital Image Techniques,43,GAV
+Concept Art Project,5,GAV
+Games Futures,178,GAV
+Drawing for Games and Animation 3,43,GAV
+Game Publishing,12,GAV
+Indie Game Project,13,GAV
+Beta Arcade,220,GAV
+Professional Practice,43,GAV
+Advanced Effects Animation,2,GAV
+Advanced Game Mechanics,39,GAV
+Research Methods,147,GAV
+Drawing for Concept Artists,53,GAV
+Advanced Mission Design,38,GAV
+Programming for VFX,2,GAV
+Character Design,52,GAV
+Acting for Animation,18,GAV
+Body Mechanics,18,GAV
+Modelling and Sculpting,37,GAV
+Material Creation,36,GAV
+Shorthand for Journalists 1,49,GAV
+Advanced Server-side Technologies,14,CSIS
+Game Prototyping,6,GAV
+Studio Development ,6,GAV
+Game Production,6,GAV
